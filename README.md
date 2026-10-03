@@ -27,5 +27,10 @@ Previously a Data Scientist at **BNP Paribas** and **American Express** · **IIT
 
 ### Open source
 - [sktime #11346](https://github.com/sktime/sktime/pull/11346): restore contracted classifier assertions when `n_estimators` is greater than 0
+- [pytorch-forecasting #2444](https://github.com/sktime/pytorch-forecasting/pull/2444): add usage examples for TimeXer and TemporalFusionTransformer
+- [huggingface_hub #5060](https://github.com/huggingface/huggingface_hub/pull/5060): add a Hindi translation of the model-card guide
+- [dspy #10567](https://github.com/stanfordnlp/dspy/pull/10567): fix broken tutorial links
+- [datasets #8732](https://github.com/huggingface/datasets/pull/8732): fix broken documentation links
+- [pydantic-ai #9567](https://github.com/pydantic/pydantic-ai/pull/9567): fix dead links in the clai2 and native-tools docs
 
 [LinkedIn](https://www.linkedin.com/in/atharvam212) · Portfolio coming soon
