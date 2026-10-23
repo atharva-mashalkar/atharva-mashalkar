@@ -28,5 +28,7 @@ Previously a Data Scientist at **BNP Paribas** and **American Express** · **IIT
 ### Open source
 - [DSPy](https://github.com/stanfordnlp/dspy)
 - [pytorch-forecasting](https://github.com/sktime/pytorch-forecasting)
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai)
+- [pandera](https://github.com/unionai-oss/pandera)
 
 [LinkedIn](https://www.linkedin.com/in/atharvam212) · Portfolio coming soon
